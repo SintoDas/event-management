@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B. 
 
-<i>Write your explanation here</i>
+<i>JavaScript is case sentive .Here greeting and greetgn is different variable.So RefrenceError : greetign is not defined is correct ansewer.</i>
 
 </p>
 </details>
