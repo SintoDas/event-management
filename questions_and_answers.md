@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B
 
-<i>Write your explanation here</i>
+<i>JavaScript is case sentive langage . Here greeting and greetign are differnet variable. so the answer is B correct</i>
 
 </p>
 </details>
@@ -43,9 +43,9 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
-<i>Write your explanation here</i>
+<i>Here first variable is parameter is number and seconde parameter is string, when add them get a string  and it is "12"</i>
 
 </p>
 </details>
@@ -69,9 +69,9 @@ console.log(food);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A
 
-<i>Write your explanation here</i>
+<i>Here we have food array . Then we assign first element into object and reassign a value .The reassign cannot change the array .</i>
 
 </p>
 </details>
@@ -94,9 +94,9 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B
 
-<i>Write your explanation here</i>
+<i>Here we write an function which wants a argument. But we don't pass any parameter for this it gives undefined.</i>
 
 </p>
 </details>
@@ -122,9 +122,9 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: 3
 
-<i>Write your explanation here</i>
+<i>The result is 3 because nums is array , we check every time , check the value is not equal to zero here 1, 2,3 isn't equal zero. For this reasone count is 3</i>
 
 </p>
 </details>
